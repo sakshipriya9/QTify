@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <NavBar />
       {/* Other components or content */}
+      {/* Other components or content */}
     </div>
   );
 }
